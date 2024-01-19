@@ -1,0 +1,32 @@
+[
+    {
+        "type": "list",
+        "name": "bonuses",
+        "message": "Как дела?1111",
+        "choices": [
+          { "name": "Норм", "value": 0 },
+          { "name": "Хорошо", "value": 2 },
+          { "name": "Плохо", "value": 5 }
+        ]
+    },
+    {
+        "type": "list",
+        "name": "bonuses",
+        "message": "Как ",
+        "choices": [
+          { "name": "Норм", "value": 0 },
+          { "name": "Хорfgggошо", "value": 2 },
+          { "name": "Плохggо", "value": 5 }
+        ]
+    },
+    {
+        "type": "list",
+        "name": "bonuses",
+        "message": "?33333",
+        "choices": [
+          { "name": "Норм", "value": 0 },
+          { "name": "Хорошо", "value": 2 },
+          { "name": "Плохо", "value": 5 }
+        ]
+    }
+    ]
