@@ -10,7 +10,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "readline-sync": "^1.4.10"
+    "inquirer": "^8.2.6",
+    "readline-sync": "^1.4.10",
+    "sound-play": "^1.1.0"
   },
   "devDependencies": {
     "eslint": "^8.23.0",
