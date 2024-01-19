@@ -1,32 +1,73 @@
 [
     {
-        "type": "list",
-        "name": "bonuses",
-        "message": "Как дела?1111",
-        "choices": [
-          { "name": "Норм", "value": 0 },
-          { "name": "Хорошо", "value": 2 },
-          { "name": "Плохо", "value": 5 }
-        ]
+      "type": "list",
+      "name": "bonuses",
+      "message": "Что носит дьявол в известном фильме?",
+      "choices": [
+        { "name": "oodji", "value": 0 },
+        { "name": "Prada", "value": 5 },
+        { "name": "ТВОЁ", "value": 0 }
+      ]
     },
     {
-        "type": "list",
-        "name": "bonuses",
-        "message": "Как ",
-        "choices": [
-          { "name": "Норм", "value": 0 },
-          { "name": "Хорfgggошо", "value": 2 },
-          { "name": "Плохggо", "value": 5 }
-        ]
+      "type": "list",
+      "name": "bonuses",
+      "message": "Куда направлялись Фродо и Сэм?",
+      "choices": [
+        { "name": "Диснейленд", "value": 0 },
+        { "name": "На Эльбрус", "value": 0 },
+        { "name": "Мордор", "value": 5 }
+      ]
     },
     {
-        "type": "list",
-        "name": "bonuses",
-        "message": "?33333",
-        "choices": [
-          { "name": "Норм", "value": 0 },
-          { "name": "Хорошо", "value": 2 },
-          { "name": "Плохо", "value": 5 }
-        ]
+      "type": "list",
+      "name": "bonuses",
+      "message": "Почему в Хогвартсе не едят суши?",
+      "choices": [
+        { "name": "Там обитают только веганы", "value": 0 },
+        { "name": "У Дамблдора аллергия на рыбу ", "value": 0 },
+        { "name": "Неудобно есть одной палочкой", "value": 5 }
+      ]
+    },
+    {
+      "type": "list",
+      "name": "bonuses",
+      "message": "Валико, если большой самолет и большой вертолет цепью связать, кто победит?",
+      "choices": [
+        { "name": "Большой самолет", "value": 0 },
+        { "name": "Цепь", "value": 5 },
+        { "name": "Большой вертолет", "value": 0 }
+      ]
+    },
+    {
+      "type": "list",
+      "name": "bonuses",
+      "message": "В какой известной всему миру роли Пирса Броснана сменил Д.Крейг?",
+      "choices": [
+        { "name": "Джэймс Бонд", "value": 5 },
+        { "name": "Товарищ Задов", "value": 0 },
+        { "name": "Агент национальной безопасности", "value": 0 }
+      ]
+    },
+    {
+      "type": "list",
+      "name": "bonuses",
+      "message": "Любимая тачка Торетто из форсажа?",
+      "choices": [
+        { "name": "Волга Сайбер", "value": 0 },
+        { "name": "Малиновая лада", "value": 0 },
+        { "name": "Мустанг", "value": 5 }
+      ]
+    },
+    {
+      "type": "list",
+      "name": "bonuses",
+      "message": "Как зовут персонажа Джесси Айзенберга в ф. Социальная сеть?",
+      "choices": [
+        { "name": "Хуан", "value": 0 },
+        { "name": "Марк", "value": 5 },
+        { "name": "Вася", "value": 0 }
+      ]
     }
-    ]
+  ]
+  

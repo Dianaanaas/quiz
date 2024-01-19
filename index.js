@@ -18,7 +18,7 @@ async function quiz() {
         message: 'Выбери тему',
         choices: [
           { name: 'Эльбрус' },
-          { name: 'ХхЛхл' },
+          { name: 'Кино' },
         ],
       }]);
   if (theme.theme === 'Эльбрус') {
