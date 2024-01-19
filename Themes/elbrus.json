@@ -5,7 +5,7 @@
     "message": "Как дела?",
     "choices": [
       { "name": "Норм", "value": 0 },
-      { "name": "Хорошо", "value": 2 },
+      { "name": "Хорошо", "value": 0 },
       { "name": "Плохо", "value": 5 }
     ]
 },
@@ -15,7 +15,7 @@
     "message": "Как дела2222?",
     "choices": [
       { "name": "Норм", "value": 0 },
-      { "name": "Хорfgggошо", "value": 2 },
+      { "name": "Хорfgggошо", "value": 0 },
       { "name": "Плохggо", "value": 5 }
     ]
 },
@@ -25,7 +25,7 @@
     "message": "Как дела?33333",
     "choices": [
       { "name": "Норм", "value": 0 },
-      { "name": "Хорошо", "value": 2 },
+      { "name": "Хорошо", "value": 0 },
       { "name": "Плохо", "value": 5 }
     ]
 }
