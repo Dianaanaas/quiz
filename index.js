@@ -1,5 +1,6 @@
 const inquirer = require('inquirer');
 const fs = require('fs').promises;
+const audio = require('sound-play')
 
 async function hello() {
   const theme = await inquirer
@@ -42,10 +43,13 @@ async function initQ(path) {
     scores += await objAnswer.bonuses;
     if (objAnswer.bonuses) {
       console.log(`\nОтвет верный!! Количество очков: ${scores}\n`);
+      audio.play('./kotik.mp3')
     } else {
       console.log(`\nОтвет неверный!! Количество очков: ${scores}\nПравильный ответ: ${str}\n`);
+      audio.play('./gav.mp3')
     }
   }
  await console.log(`\nПоздравляяяяяем!!111!!!! Ты набрал ${scores} очков\n`);
+ audio.play('./pole-chudes-priz.mp3')
 }
 hello();
